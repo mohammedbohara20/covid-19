@@ -1,0 +1,35 @@
+State,Confirmed,Active,Recovered,Deaths
+Maharashtra,"20,228","15,649","3,800",779
+Gujarat,"7,797","5,234","2,091",472
+Delhi,"6,542","4,454","2,020",68
+Tamil Nadu,"6,535","4,667","1,824",44
+Rajasthan,"3,741","1,458","2,176",107
+Madhya Pradesh,"3,457","1,766","1,480",211
+Uttar Pradesh,"3,373","1,800","1,499",74
+Andhra Pradesh,"1,930",999,887,44
+West Bengal,"1,786","1,243",372,171
+Punjab,"1,762","1,574",157,31
+Telangana,"1,163",382,751,30
+Jammu and Kashmir,836,459,368,9
+Karnataka,794,377,386,30
+Haryana,675,376,290,9
+Bihar,629,306,318,5
+Kerala,506,17,485,4
+Odisha,352,281,68,3
+Chandigarh,169,143,24,2
+Jharkhand,156,75,78,3
+Tripura,135,133,2,0
+Uttarakhand,67,20,46,1
+Assam,62,26,35,1
+Chhattisgarh,59,16,43,0
+Himachal Pradesh,52,11,35,3
+Ladakh,42,24,18,0
+Andaman and Nicobar Islands,33,0,33,0
+Meghalaya,13,2,10,1
+Puducherry,10,2,8,0
+Goa,7,0,7,0
+Manipur,2,0,2,0
+Mizoram,1,0,1,0
+Arunachal Pradesh,1,0,1,0
+Dadra and Nagar Haveli and Daman and Diu,1,1,0,0
+Total,"62,916","41,495","19,315","2,102"
